@@ -1,8 +1,7 @@
-package compare_the_triplets;
+package warmup.compare_the_triplets;
 
 import java.io.*;
 import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
